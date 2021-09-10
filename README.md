@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunand12" alt="gunand12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gunand" target="blank"><img src="https://img.shields.io/twitter/follow/gunand?logo=twitter&style=for-the-badge" alt="gunand" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gunand5" target="blank"><img src="https://img.shields.io/twitter/follow/gunand5?logo=twitter&style=for-the-badge" alt="gunand5" /></a> </p>
 
 - 📝 I regularly write articles on [https://gndjel3043.medium.com/](https://gndjel3043.medium.com/)
 
@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gunand5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gunand" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gunand mayanglambam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunand mayanglambam" height="30" width="40" /></a>
+<a href="https://twitter.com/gunand5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gunand5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gunand-mayanglambam-98727b141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunand-mayanglambam-98727b141" height="30" width="40" /></a>
 <a href="https://kaggle.com/gunand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gunand" height="30" width="40" /></a>
 <a href="https://medium.com/@gndjel3043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gndjel3043" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gunand mayanglambam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gunand mayanglambam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gunand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gunand" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
